@@ -1,0 +1,3 @@
+[submodule "parsing-as-pretraining"]
+	path = parsing-as-pretraining
+	url = https://github.com/aghie/parsing-as-pretraining
